@@ -200,4 +200,3 @@ Lệnh `git add` là ví dụ cho những file nội dung thường sửa. Nếu
 ## Thư viện
 
 Three.js được lưu kèm dự án; giữ `three.module.js`, `three.core.js` và giấy phép MIT trong `js/vendor/three/` khi phân phối. Thông tin phiên bản và nguồn tải nằm trong `js/vendor/three/README.md`.
-
